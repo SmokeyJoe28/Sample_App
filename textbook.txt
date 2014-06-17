@@ -1,0 +1,4 @@
+http://www.railstutorial.org/book/rails_flavored_ruby
+4.4
+6/9/14
+
