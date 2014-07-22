@@ -1,5 +1,5 @@
 http://www.railstutorial.org/book/rails_flavored_ruby
-7.1.4 A gravatar image and a sidebar
-6/26/14
-localhost:3000
+8.2 Signin success 
+7/22/14
+localhost:300
 
